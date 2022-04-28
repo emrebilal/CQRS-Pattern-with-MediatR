@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "H62hqcYU1rfN16xMfyDLYD/kHjxegHNJPC4yeotEXXR+IhWachempsd2Dk7uNSY7Lszlg/DpDfZZijWLOgT9NQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emre.bilal\\source\\repos\\CQRSMediatRExample\\DAL\\DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emre.bilal\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\emre.bilal\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
